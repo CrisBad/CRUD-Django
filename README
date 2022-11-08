@@ -1,4 +1,4 @@
-# SCRUD-Django
-SCRUD implementado con el framework Django - Ingeniería del Software III
+# CRUD-Django
+CRUD implementado con el framework Django - Ingeniería del Software III
 
 Nota: Para lanzar el servidor se realiza: python manage.py runserver sobre la carpeta Universidad.
